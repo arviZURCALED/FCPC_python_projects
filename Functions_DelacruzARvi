@@ -1,0 +1,8 @@
+def get_sum(a=50, b=20, c=30):
+    return a+b+c
+
+def get_product(x, y, z):
+    return x*y*z
+
+print(get_sum())
+print(get_product(z=10, y=20, x=5))
